@@ -1,5 +1,5 @@
 # OpenBoard
----
+
 ## Main Goal
 
 My main goal is to make a creamy thocky 65% layout mechanical keyboard with these following features -
